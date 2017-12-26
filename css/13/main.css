@@ -1,0 +1,11 @@
+a{
+	color: #0e3f6c;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: cursive;
+}
+a:hover{
+	color: lightgreen;
+	text-decoration: none;
+}
+a:visited{color: pink;}

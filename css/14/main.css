@@ -1,0 +1,35 @@
+ul{
+	
+	text-decoration: none;
+	text-align: center;
+	margin: 50px;
+	
+	list-style-type: none;
+	margin-right: -4px;
+ 	display: -webkit-inline-flex;
+ 	
+
+	
+
+}
+
+li{
+	
+	background-color: #eaa720;
+	color: #0e3f6c;
+	font-size: 25px;
+	font-family: sans-serif;
+	padding: 20px;
+	margin-left: 10px;
+	width: 180px;
+
+
+
+
+}
+li:hover{
+background-color: #9bec9b;
+color: white;
+
+
+}
